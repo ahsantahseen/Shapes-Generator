@@ -891,7 +891,7 @@ void simple_shapes(void)
 
     }
     int num;
-    printf("\n\t\t\t\tDo you want to use Graphics Generator again?\n");
+    printf("\n\t\t\t\tDo you want to use Shapes Generator again?\n");
     printf("\t\t\t\t1. YES");
     printf("\n\t\t\t\t2. NO");
     printf("\n\t\t\t\tEnter the number you want to select: ");
